@@ -1,0 +1,19 @@
+Casos de uso
+
+Usuario
+-O usuário pode se registrar.
+-O usuário pode participar de evento(s).
+-O usuário pode criar evento(s).
+
+Evento
+-O organizador pode alterar data do evento.
+
+-O organizador pode cancelar o evento.
+
+-Os participantes podem convidar outros usuarios.
+
+-O sistema cria uma conversa sempre que um evento é criado.
+
+Conversa
+
+- O usuário pode deixar a conversa sempre que quiser
